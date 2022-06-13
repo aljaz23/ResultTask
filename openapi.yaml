@@ -41,7 +41,6 @@ paths:
                     - text
                     - url
                     - succesfullcalls
-                    - distance
                     - notSuccesfullcalls
                   properties:
                     text:
