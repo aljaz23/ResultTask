@@ -1,0 +1,4 @@
+com\example\result\resultspringboot\ResultSpringBootApplication.class
+com\example\result\resultspringboot\Service\ResultService.class
+com\example\result\resultspringboot\Model\ResultObject.class
+com\example\result\resultspringboot\Controller\ResultController.class

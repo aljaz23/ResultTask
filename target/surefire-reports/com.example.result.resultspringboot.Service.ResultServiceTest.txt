@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.example.result.resultspringboot.Service.ResultServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.551 s <<< FAILURE! - in com.example.result.resultspringboot.Service.ResultServiceTest
+getTextFromUrl  Time elapsed: 0.551 s  <<< ERROR!
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.example.result.resultspringboot.Service.ResultServiceTest.getTextFromUrl(ResultServiceTest.java:18)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.example.result.resultspringboot.Service.ResultServiceTest.getTextFromUrl(ResultServiceTest.java:18)
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.example.result.resultspringboot.Service.ResultServiceTest.getTextFromUrl(ResultServiceTest.java:18)
+
