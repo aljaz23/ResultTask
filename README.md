@@ -1,7 +1,7 @@
 # ResultTask
 Rest API with SPRING BOOT
 
-I had problems with making DOCKER image or building app with maven. I got some strange ERROS. Only way to run app is to clone repository.
+I had problems with making DOCKER image or building app with maven. I got some strange ERRORS. Only way to run app is to clone repository.
 
 
 HOW TO RUN APP:
